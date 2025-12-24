@@ -1,0 +1,48 @@
+{
+  "name": "learningwebvue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@markslides/markdown-it-mermaid": "^0.3.6",
+    "@neilsustc/markdown-it-katex": "^1.0.0",
+    "@vscode/markdown-it-katex": "^1.1.1",
+    "@wekanteam/markdown-it-mermaid": "^0.6.4",
+    "dompurify": "^3.2.4",
+    "element-plus": "^2.9.7",
+    "highlight.js": "^11.11.1",
+    "katex": "^0.16.21",
+    "lodash": "^4.17.21",
+    "markdown-it": "^14.1.0",
+    "markdown-it-abbr": "^2.0.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-highlightjs": "^4.2.0",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-mathjax": "^2.0.0",
+    "markdown-it-mathjax3": "^4.3.2",
+    "markdown-it-mermaid": "^0.2.5",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "markdown-it-task-lists": "^2.1.1",
+    "markdown-it-textual-uml": "^0.17.1",
+    "markdown-it-toc-done-right": "^4.2.0",
+    "marked": "^15.0.7",
+    "mathpix-markdown-it": "^2.0.13",
+    "turndown": "^7.2.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass-embedded": "^1.86.1",
+    "vite": "^6.2.1",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
